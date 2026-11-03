@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EFGZ_FilterEnabled>Filter by fertility</EFGZ_FilterEnabled>
+  <EFGZ_ChooseFertility>Fertility: {0}</EFGZ_ChooseFertility>
+  <EFGZ_NoFertility>No positive fertility found in revealed cells.</EFGZ_NoFertility>
+  <EFGZ_WrongFertility>Requires fertility {0}.</EFGZ_WrongFertility>
+  <EFGZ_FilterTooltip>Only add cells matching the selected fertility. Normal growing zone restrictions still apply. Choosing a value enables the filter.</EFGZ_FilterTooltip>
+</LanguageData>

@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+**/Assemblies/
+dist/
+*.user
+*.suo
+.env
+.env.*

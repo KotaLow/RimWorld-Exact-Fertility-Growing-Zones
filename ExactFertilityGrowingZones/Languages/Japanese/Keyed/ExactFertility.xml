@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EFGZ_FilterEnabled>肥沃度で絞る</EFGZ_FilterEnabled>
+  <EFGZ_ChooseFertility>肥沃度：{0}</EFGZ_ChooseFertility>
+  <EFGZ_NoFertility>探索済みのマスに正の肥沃度がありません。</EFGZ_NoFertility>
+  <EFGZ_WrongFertility>肥沃度が{0}のマスを指定してください。</EFGZ_WrongFertility>
+  <EFGZ_FilterTooltip>選択した肥沃度と一致するマスだけを追加します。通常の農業ゾーンの設置条件も適用されます。肥沃度を選ぶとフィルターが有効になります。</EFGZ_FilterTooltip>
+</LanguageData>
